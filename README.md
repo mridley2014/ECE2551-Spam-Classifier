@@ -14,7 +14,9 @@ The functional goal is to create a supervisied learning algorithm that includes 
 
 For more information on these algorithms check:
 
-* **Video Lecture:** 
+[//]: # Can't embed video in github
+
+* **[Video Lecture](Spam_Classifier.mp4):** 
 
 <video width=75% controls>
 	<source src="Spam_Classifier.mp4" type="video/mp4">
