@@ -14,7 +14,7 @@ The functional goal is to create a supervisied learning algorithm that includes 
 
 For more information on these algorithms check:
 
-[//]: # Can't embed video in github
+[//]: # (Can't embed or link to local video on github)
 
 * **[Video Lecture](Spam_Classifier.mp4):** 
 
@@ -59,7 +59,7 @@ The following requirements are an overview of what is expected of you in this as
 
 ###Technical Requirements
 
-This section will explain the details of how to complete this assigment. This assigment is not being unit tested using the **Catch** framework.
+This section will explain the details of how to complete this assigment. This assigment will not being unit tested using the **Catch** framework.
 
 #### Function Descriptions
 
